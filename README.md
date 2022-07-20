@@ -1,0 +1,2 @@
+# Terminal
+Windows terminal configuration
